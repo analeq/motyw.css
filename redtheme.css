@@ -281,13 +281,13 @@ button.bal_pay_decrease.active::before {
 /* MAIN LAYOUT */
 
 #panel {
-    background-image: url(https://i.imgur.com/fy4b535.png)
+    background-image: url(https://i.imgur.com/HfiCi17.png)
 }
 
 #stats {
     font: 10px Arial, Verdana;
     color: #e3e3e3;
-    background-image: url(https://i.imgur.com/XOizvQR.png)
+    background-image: url(https://i.imgur.com/YxzcUAG.png)
 }
 
 #stats B {
@@ -382,7 +382,7 @@ UL.boxhover LI:not(.disabled):hover {
 #inpchat {
     font: 12px Arial;
     color: #e3e3e3;
-    background-image: url(https://i.imgur.com/m8dQRwe.png);
+    background-image: url(https://i.imgur.com/twmBtXX.png);
     margin-top: -2px
 }
 
@@ -391,13 +391,13 @@ UL.boxhover LI:not(.disabled):hover {
 }
 
 #chat {
-    background-image: url(https://i.imgur.com/a9ISFb6.png)
+    background-image: url(https://i.imgur.com/u9gpcEF.png)
 }
 
 #chat.left {
     width: 264px;
     background-color: transparent;
-    background-image: url(https://i.imgur.com/Tkmrimk.png);
+    background-image: url(https://i.imgur.com/vftkOd2.png);
     background-position: -5px -72px;
     margin-left: 11px;
     margin-top: -1px;
@@ -605,7 +605,7 @@ B.yourname {
 }
 
 #mappanel {
-    background-image: url(https://i.imgur.com/KRmu8X8.png)
+    background-image: url(https://i.imgur.com/XCVNygv.png)
 }
 
 #maplist B {
@@ -1121,13 +1121,13 @@ table > tbody > tr.hover:hover {
 }
 
 #tradebg {
-    background: url(https://i.imgur.com/J4uiRvV.png) no-repeat
+    background: url(https://i.imgur.com/6FZwW4r.png) no-repeat
 }
 
 #tradeaccept,
 #tradeaccept2,
 #tradecancel {
-    background-image: url(https://i.imgur.com/J4uiRvV.png)
+    background-image: url(https://i.imgur.com/6FZwW4r.png)
 }
 
 #trade_protection_info {
@@ -1292,7 +1292,7 @@ span.mhead > hr {
 }
 
 #ahtitle {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat -115px 0
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat -115px 0
 }
 
 #auctions .ahitem {
@@ -1300,7 +1300,7 @@ span.mhead > hr {
 }
 
 #ahselect {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat -115px -32px;
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat -115px -32px;
     font: 11px Arial
 }
 
@@ -1316,7 +1316,7 @@ span.mhead > hr {
 }
 
 #ahselect B#b_myah {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -38px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -38px
 }
 
 #ah_list > center > b {
@@ -1344,7 +1344,7 @@ span.mhead > hr {
 }
 
 #ah_mylist H5 {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat -238px -162px;
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat -238px -162px;
     border: 1px solid #202020;
     border-bottom: none
 }
@@ -1393,17 +1393,17 @@ span.mhead > hr {
 }
 
 #auctions #ah_filter BUTTON {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -266px;
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -266px;
     position: absolute;
     margin-top: 1px
 }
 
 #auctions BUTTON.new {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -304px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -304px
 }
 
 #auctions BUTTON.new_s {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -304px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -304px
 }
 
 #auctions BUTTON.new:hover,
@@ -1412,7 +1412,7 @@ span.mhead > hr {
 }
 
 #auctions BUTTON.end {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -152px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -152px
 }
 
 #auctions BUTTON.end:hover {
@@ -1420,42 +1420,56 @@ span.mhead > hr {
 }
 
 #auctions BUTTON.nobid {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -95px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -95px
 }
 
 #auctions BUTTON.bid {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -57px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -57px
 }
 
 #auctions BUTTON.bid:hover {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -76px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -76px
 }
 
 #auctions BUTTON.nobid_credits {
-    background: url(https://i.imgur.com/cIZdyR7.png?2) no-repeat 0 -380px
+    background: url(https://i.imgur.com/WtoLcKp.png?2) no-repeat 0 -380px
 }
 
 #auctions BUTTON.bid_credits {
-    background: url(https://i.imgur.com/cIZdyR7.png?2) no-repeat 0 -342px
+    background: url(https://i.imgur.com/WtoLcKp.png?2) no-repeat 0 -342px
 }
 
 #auctions BUTTON.bid_credits:hover {
-    background: url(https://i.imgur.com/cIZdyR7.png?2) no-repeat 0 -361px
+    background: url(https://i.imgur.com/WtoLcKp.png?2) no-repeat 0 -361px
 }
 
 #auctions BUTTON.buyout {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -112px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -112px
 }
 
 #auctions BUTTON.buyout:hover {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -131px
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -131px
 }
 
 #auctions BUTTON.next {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -191px;
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -191px;
     position: absolute;
     margin-top: 1px;
     left: 210px
+}
+.vocative_alert active{
+	background: #ffd368;
+	background: center center no-repeat;
+	color: lightgoldenrodyellow;
+}
+#gVocative{
+	background: #ffd368;
+	color: lightgoldenrodyellow;
+}
+#dropmenu{
+	background: #ffd368;
+	color: lightgoldenrodyellow;
+	border: none;
 }
 
 #auctions BUTTON.next:hover {
@@ -1463,7 +1477,7 @@ span.mhead > hr {
 }
 
 #auctions BUTTON.prev {
-    background: url(https://i.imgur.com/cIZdyR7.png) no-repeat 0 -229px;
+    background: url(https://i.imgur.com/WtoLcKp.png) no-repeat 0 -229px;
     position: absolute;
     margin-top: 1px;
     left: 101px
@@ -1489,7 +1503,7 @@ span.mhead > hr {
 
 #depo {
     color: #e3e3e3;
-    background: #000 url(https://i.imgur.com/aSQdSMp.png) no-repeat 0 222px;
+    background: #000 url(https://i.imgur.com/WXnG4jv.png) no-repeat 0 222px;
     font: 12px Arial, sans-serif
 }
 
@@ -1502,7 +1516,7 @@ span.mhead > hr {
 }
 
 #depo-title {
-    background: url(https://i.imgur.com/aSQdSMp.png) no-repeat 0 -290px
+    background: url(https://i.imgur.com/WXnG4jv.png) no-repeat 0 -290px
 }
 
 #depo-back {
@@ -1540,7 +1554,7 @@ span.mhead > hr {
 }
 
 #depo-gold INPUT {
-    background: url(https://i.imgur.com/RCeN8vr.png) no-repeat 0 -228px;
+    background: url(https://i.imgur.com/mLFPiX4.png) no-repeat 0 -228px;
     color: #e3e3e3
 }
 
@@ -1549,19 +1563,19 @@ span.mhead > hr {
 }
 
 #skills {
-    background: url(https://i.imgur.com/qcQHx1k.png) no-repeat center bottom
+    background: url(https://i.imgur.com/kfxSHR2.png) no-repeat center bottom
 }
 
 #skills_title {
-    background: url(https://i.imgur.com/qcQHx1k.png) no-repeat 0 0
+    background: url(https://i.imgur.com/kfxSHR2.png) no-repeat 0 0
 }
 
 #skills_bar {
-    background: url(https://i.imgur.com/qcQHx1k.png) no-repeat 0 -32px
+    background: url(https://i.imgur.com/kfxSHR2.png) no-repeat 0 -32px
 }
 
 #skills_title {
-    background: url(https://i.imgur.com/qcQHx1k.png) no-repeat 0 0
+    background: url(https://i.imgur.com/kfxSHR2.png) no-repeat 0 0
 }
 
 #skillcount {
@@ -1574,11 +1588,11 @@ span.mhead > hr {
 }
 
 .skillbox {
-    background-image: url(https://i.imgur.com/0CsNnT8.png)
+    background-image: url(https://i.imgur.com/neB82kX.png)
 }
 
 .skillbox_active {
-    background-image: url(http://i.imgur.com/7rvNsOX.png)!important
+    background-image: url(https://i.imgur.com/neB82kX.png)!important
 }
 
 .skillbox_border {
@@ -1586,36 +1600,36 @@ span.mhead > hr {
 }
 
 .skillbox_lvl.cl-6 {
-    background-image: url(http://i.imgur.com/7rvNsOX.png)!important;
+    background-image: url(https://i.imgur.com/neB82kX.png)!important;
     background-position-x: 0!important
 }
 
 .skillbox_lvl.cl-1 {
-    background-image: url(http://i.imgur.com/7rvNsOX.png)!important;
+    background-image: url(https://i.imgur.com/neB82kX.png)!important;
     background-position-x: 0!important;
     background-position-y: -47px!important
 }
 
 .skillbox_lvl.cl-2 {
-    background-image: url(http://i.imgur.com/7rvNsOX.png)!important;
+    background-image: url(https://i.imgur.com/neB82kX.png)!important;
     background-position-x: 0!important;
     background-position-y: -60px!important
 }
 
 .skillbox_lvl.cl-3 {
-    background-image: url(http://i.imgur.com/7rvNsOX.png)!important;
+    background-image: url(https://i.imgur.com/neB82kX.png)!important;
     background-position-x: 0!important;
     background-position-y: -73px!important
 }
 
 .skillbox_lvl.cl-4 {
-    background-image: url(http://i.imgur.com/7rvNsOX.png)!important;
+    background-image: url(https://i.imgur.com/neB82kX.png)!important;
     background-position-x: 0!important;
     background-position-y: -86px!important
 }
 
 .skillbox_lvl.cl-5 {
-    background-image: url(http://i.imgur.com/7rvNsOX.png)!important;
+    background-image: url(https://i.imgur.com/neB82kX.png)!important;
     background-position-x: 0!important;
     background-position-y: -99px!important
 }
@@ -1673,11 +1687,11 @@ span.mhead > hr {
 }
 
 #loots_button {
-    background-image: url(https://i.imgur.com/fFM2nTL.png)
+    background-image: url(https://i.imgur.com/FtXVvow.png)
 }
 
 #loots_counter {
-    background: url(https://i.imgur.com/fFM2nTL.png) -134px -146px;
+    background: url(https://i.imgur.com/FtXVvow.png) -134px -146px;
     color: #e3e3e3
 }
 
@@ -1693,13 +1707,13 @@ span.mhead > hr {
 }
 
 #loots .loot {
-    background: url(https://i.imgur.com/fFM2nTL.png) -180px -58px
+    background: url(https://i.imgur.com/FtXVvow.png) -180px -58px
 }
 
 #loots B.yes,
 #loots B.no,
 #loots B.need {
-    background-image: url(https://i.imgur.com/fFM2nTL.png)
+    background-image: url(https://i.imgur.com/FtXVvow.png)
 }
 
 #bm_edit_panel {
@@ -1755,7 +1769,7 @@ div#bm_edit_panel::before {
 }
 
 #b_pvp {
-    background: url(https://i.imgur.com/ju65uYG.png) -200px 0
+    background: url(https://i.imgur.com/h0dl1VR.png) -200px 0
 }
 
 #pk_list {
