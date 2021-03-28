@@ -2,6 +2,9 @@
     font-family: 'Segoe MDL2 Assets';
     src: url('https://dl.dropboxusercontent.com/s/cso7y9utispevkc/segmdl2.ttf')
 }
+.globalChatMessage, #chattxt .globalChatMessage .chnick{
+	color: purple;
+}
 
 * {
     font-family: Arial, sans-serif
@@ -457,7 +460,7 @@ UL.boxhover LI:not(.disabled):hover {
 
 #chattxt .entertown {
     border-bottom: 1px dotted #424242;
-    color: #696969
+    color: greenyellow;
 }
 
 #chattxt .me {
@@ -475,21 +478,26 @@ UL.boxhover LI:not(.disabled):hover {
 
 #chattxt .clant,
 #chattxt DIV.clant SPAN.chnick {
-    color: #ffd700
+    color: orangered;
+	font-weight:600
 }
 
 #chattxt .priv,
 #chattxt DIV.priv SPAN.chnick {
-    color: #ff7f7f
+    color: red;
+	font-weight:600;
 }
 
 #chattxt .priv2,
 #chattxt DIV.priv2 SPAN.chnick {
-    color: #8effff
+    color: black;
+	font-weight:600'
 }
 
 #chattxt .team {
-    color: #9C6BEF
+    color: brown;
+	font-weight:600;
+	
 }
 
 #chattxt .fr span {
@@ -816,7 +824,7 @@ BUTTON.bal_pay {
 .q_doit,
 .q_kill {
     font: normal 13px Arial;
-    color: #e3e3e3
+    color: black
 }
 
 .q_kill {
@@ -824,12 +832,12 @@ BUTTON.bal_pay {
 }
 
 .questObj small {
-    color: #e3e3e3
+    color: black
 }
 
 #msg {
     font: bold 20px Arial;
-    color: #e3e3e3
+    color: black
 }
 
 .golden-text {
@@ -940,7 +948,7 @@ BUTTON.bal_pay {
 }
 
 #dialog {
-    background: #000;
+    background: #ffd368;
     color: #e3e3e3
 }
 
@@ -949,7 +957,7 @@ BUTTON.bal_pay {
 }
 
 #dlgin .message {
-    color: #e3e3e3
+    color: black;
 }
 
 #dlgin H4 {
@@ -957,7 +965,8 @@ BUTTON.bal_pay {
 }
 
 #dlgin LI {
-    background-color: #111
+    background-color: #ffd38;
+	color:black
 }
 
 #dlgin LI.endtalk {
@@ -1354,7 +1363,7 @@ span.mhead > hr {
 }
 
 #auctions TH {
-    background: #424242;
+    background: #544114;
     color: #e3e3e3;
     border: 1px solid #202020;
     border-bottom: 1px solid #202020;
@@ -1379,7 +1388,7 @@ span.mhead > hr {
 }
 
 #ah_filter {
-    background: #000;
+    background: #544114;
     color: #e3e3e3;
     font: 11px Arial, sans-serif
 }
@@ -1683,7 +1692,7 @@ span.mhead > hr {
 }
 
 #loots {
-    border-image: url(https://i.imgur.com/h5FobeW.png) 41 32 17 49 fill round
+    border-image: url(https://i.imgur.com/njo9hgQ.png) 41 32 17 49 fill round
 }
 
 #loots_button {
