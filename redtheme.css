@@ -1026,25 +1026,25 @@ BUTTON.bal_pay {
 }
 
 #clanmenu {
-    background: url(https://i.imgur.com/0ynkTt8.png)
+    background: url(https://i.imgur.com/qYknlkp.png)
 }
 
 #clanbox {
     color: #e3e3e3;
-    background: #000
+    background: #9d781e
 }
 
 table > tbody > tr > td.table-header {
-	background: #111;
+	background: #9d781e;
 	color: #e3e3e3;
 	border-color: #202020
 }
 table > tbody > tr > td.normal-td {
-	border-color: #202020
+	border-color: #9d781e
 }
 
 table > tbody > tr.hover:hover {
-	background: #424242
+	background: #9d781e
 }
 
 .SI-button .label,
